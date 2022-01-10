@@ -1,2 +1,2 @@
 # AE2
-shoping cart application
+shopping cart application
